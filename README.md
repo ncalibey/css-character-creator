@@ -2,6 +2,10 @@
 
 In this workshop, you'll build a Sims-style character creation screen.
 
+> [!NOTE]
+> The solutions in this repo are the ones from Josh's solution videos. None of
+> this is my own work.
+
 ## Mockups
 
 Desktop:

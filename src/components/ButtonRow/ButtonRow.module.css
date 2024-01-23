@@ -1,2 +1,11 @@
 .buttonRow {
+    /* Hides the elements when they would otherwise overflow. */
+    overflow: auto;
+    /* Forces the inline elements to never break lines. */
+    white-space: nowrap;
+    /* Below we are undoing the padding of the parent and re-adding it in the child. */
+    margin-left: -22px;
+    margin-right: -22px;
+    margin-bottom: -22px;
+    padding: 22px;
 }

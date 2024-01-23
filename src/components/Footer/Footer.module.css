@@ -6,3 +6,11 @@
   text-align: center;
 }
 
+.footer a {
+  /*
+    We use inherit so if we change the color of the
+    footer, the color of the link will change with
+    it.
+  */
+  color: inherit;
+}
